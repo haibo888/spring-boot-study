@@ -26,6 +26,7 @@ public class ReadingListController {
 	    AmazonProperties amazonConfig) {
 		this.readingListRepository = readingListRepository;
     this.amazonConfig = amazonConfig;
+		System.out.println("你好");
 	}
 	
 	@RequestMapping(method=RequestMethod.GET, value="/fail")
