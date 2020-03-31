@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.controller.ReadingListController",
+      "name": "amazon",
+      "type": "com.controller.ReadingListController"
+    },
+    {
+      "sourceType": "com.AmazonProperties",
+      "name": "amazon",
+      "type": "com.AmazonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.AmazonProperties",
+      "name": "amazon.associate-id",
+      "type": "java.lang.String"
+    }
+  ]
+}
